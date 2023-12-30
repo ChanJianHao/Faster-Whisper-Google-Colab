@@ -24,7 +24,7 @@ When uploading, you will have to specify the extension of the output files (`srt
 
 ### Updates
 
-30 Dec 2023 - First release
+30 Dec 2023 - First release. Added direct download capability and support for other video file foromats like mkv.
 
 ## Acknowledgments
 

@@ -1,6 +1,6 @@
-# Faster-Whisper-Google-Colab
+# Faster Whisper Google Colab
 
-A cloud deployment of [faster-whisper](https://github.com/guillaumekln/faster-whisper) on Google Colab. It leverages Google's cloud computing clusters and GPU to automatically generate subtitles or transcription for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg` then processed with automatic speech recognition technology by OpenAI.
+A cloud deployment of [faster-whisper](https://github.com/guillaumekln/faster-whisper) on Google Colab. It leverages Google's cloud computing clusters and GPU to automatically generate subtitles (translation) or transcription for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg` then processed with automatic speech recognition technology by OpenAI.
 
 
 ## Why use our tool? 
